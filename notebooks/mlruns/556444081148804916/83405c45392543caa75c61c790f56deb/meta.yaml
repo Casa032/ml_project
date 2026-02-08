@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/vjuni/Documents/Universit%C3%A9%20de%20Lille/SIAD2/S3/Mlops/projet/notebooks/mlruns/556444081148804916/83405c45392543caa75c61c790f56deb/artifacts
+end_time: 1770506673503
+entry_point_name: ''
+experiment_id: '556444081148804916'
+lifecycle_stage: active
+run_id: 83405c45392543caa75c61c790f56deb
+run_name: test_baac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770506673244
+status: 3
+tags: []
+user_id: vjuni
