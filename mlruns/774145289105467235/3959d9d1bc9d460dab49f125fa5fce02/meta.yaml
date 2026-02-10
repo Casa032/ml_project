@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vjuni/Documents/Université de Lille/SIAD2/S3/Mlops/projet/notebooks/../mlruns/774145289105467235/3959d9d1bc9d460dab49f125fa5fce02/artifacts
+end_time: 1770723681747
+entry_point_name: ''
+experiment_id: '774145289105467235'
+lifecycle_stage: active
+run_id: 3959d9d1bc9d460dab49f125fa5fce02
+run_name: RF_BAAC_Final
+run_uuid: 3959d9d1bc9d460dab49f125fa5fce02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770723661438
+status: 3
+tags: []
+user_id: vjuni
